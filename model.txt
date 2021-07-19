@@ -1,0 +1,4 @@
+para implementar las colecciones se creo una coleccion que se llama audio en la cual se contienen los diferentes parametros solicitados,
+ademas en esta coleccion se encuentra una subcoleccion que contiene el usuario que subio el archivo junto con los datos necesarios para su posicionamiento geografico,
+igualmente existe otra subcoleccion llamada segmentos en la cual se almacena informacion de un segmento correspondiente al audio .wav como su formato, duracion, inicio y fin y
+una subcoleccion etiquetas en la cual se almacenan etiquetas correspondientes al segmento de audio junto al id del analizador.
